@@ -1,0 +1,16 @@
+Id,firstName,lastName,salary,managerId
+1,John,Doe,80000,
+2,Mary,Smith,75000,1
+3,David,Johnson,70000,1
+4,Emily,Jones,60000,2
+5,Michael,Williams,65000,2
+6,Jessica,Brown,55000,3
+7,Christopher,Miller,50000,3
+8,Ashley,Davis,45000,4
+9,Matthew,Garcia,40000,8
+10,Amanda,Martinez,35000,9
+11,Joshua,Anderson,30000,10
+12,Sarah,Taylor,25000,11
+13,Robert,Thomas,20000,6
+14,Jennifer,Hernandez,15000,7
+15,William,Moore,10000,7
